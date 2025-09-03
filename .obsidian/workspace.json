@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "0774e101e6fe2d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d666433f5dc7a788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b3af5fcb7392543",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          },
+          {
+            "id": "38940b0456ce6820",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f54fcd3410abad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8010822f6293724b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "095b9bb9b83f3ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "193d7d7b1ddfe47d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "938281352c63d47d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d66f1198aff316e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a50df2f58f5cc923",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6d1a365904ed4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ad63c411b43814",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "289ed5ef3b2b4413",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Site Assement Project Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Site Assement Project Test"
+            }
+          },
+          {
+            "id": "4d3ffe0dacda8e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Inbox/Floral Gestalt.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Floral Gestalt"
+            }
+          },
+          {
+            "id": "4c71fd8e83b9ec70",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "1b3af5fcb7392543",
+  "lastOpenFiles": [
+    "<Client> Design Services.md",
+    "test files/<Client> Design Services.md",
+    "test files/Site Assement Project Test.md",
+    "test files",
+    "docs/PROJECT_COMPLETION_SUMMARY.md",
+    "docs/QUICK_REFERENCE.md",
+    "PROJECT_STRUCTURE.md",
+    "docs/HEADING_SUPPORT_TODO.md",
+    "scripts/version-bump.mjs",
+    "scripts/update-plugin.sh",
+    "docs/PLUGIN_READY.md",
+    "docs/FIXES_APPLIED.md",
+    "docs/TESTING_GUIDE.md",
+    "docs/PROJECT_SUMMARY.md",
+    "docs/DEVELOPMENT_PLAN.md",
+    "scripts",
+    "tests",
+    "docs",
+    "Site Assement Project Test.md",
+    "PLUGIN_READY.md",
+    "update-plugin.sh",
+    "FIXES_APPLIED.md",
+    "TESTING_GUIDE.md",
+    "main.js",
+    "package-lock.json",
+    "node_modules/typescript/ThirdPartyNoticeText.txt",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/typescript/lib/README.md",
+    "node_modules/typescript/CODE_OF_CONDUCT.md",
+    "node_modules/typescript/AUTHORS.md",
+    "node_modules/eslint/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/@typescript-eslint/eslint-plugin/README.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/unified-signatures.md",
+    "node_modules/@typescript-eslint/eslint-plugin/docs/rules/unbound-method.md",
+    "0. Inbox/Communications Management.canvas",
+    "0. Inbox/Landscape Design Project Notes Flow.canvas",
+    "2. Areas/Design/Vectorworks/Vectorworks Workflow Map.canvas",
+    "0. Inbox/Plant Data Flow.canvas",
+    "1. Projects/Rountree/drawings/2025-02-03_DoyleRd-inventory.png",
+    "1. Projects/Rountree/drawings/doyleRd_concept1.png",
+    "1. Projects/Rountree/attachments/IMG_0090 Small.jpeg",
+    "1. Projects/Rountree/drawings/doyleRd_concept2.png",
+    "0. Inbox/Vectorworks Data Management.canvas",
+    "0. Inbox/Oudolf Notes/Screenshots/oudDesign/oudDesign1.png",
+    "0. Inbox/Oudolf Notes/Screenshots/oudDesign/oudDesign10.png",
+    "0. Inbox/Oudolf Notes/Screenshots/oudDesign/oudDesignPhil.png",
+    "0. Inbox/Oudolf Notes/Screenshots/oudWork/vitra/oudVitra5.png",
+    "0. Inbox/Oudolf Notes/Screenshots/oudWork/vitra/oudVitra1.png",
+    "0. Inbox/Oudolf Notes/Screenshots/oudWork/vitra/oudVitra2.png",
+    "2. Areas/Design/QGIS/QGIS Project Flow.canvas",
+    "1. Projects/_Pipeline/Landscape Project Notes Flow.canvas"
+  ]
+}

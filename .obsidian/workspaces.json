@@ -1,0 +1,1911 @@
+{
+  "workspaces": {
+    "Blank": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "d666433f5dc7a788",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e708469c31427538",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d66f1198aff316e5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0. Inbox/Floral Gestalt.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Floral Gestalt"
+                }
+              },
+              {
+                "id": "4c71fd8e83b9ec70",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "e708469c31427538",
+      "mtime": "2025-09-03T10:59:47-04:00"
+    },
+    "VW Workflow Development": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "418b1337f1576a53",
+            "type": "split",
+            "children": [
+              {
+                "id": "2ab913457d31131b",
+                "type": "split",
+                "dimension": 48.012718600953896,
+                "children": [
+                  {
+                    "id": "e17520ca360a4837",
+                    "type": "tabs",
+                    "dimension": 55.625,
+                    "children": [
+                      {
+                        "id": "76dd0c46a2b8bf13",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "2. Areas/Design/Vectorworks/Vectorworks MOC.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Vectorworks MOC"
+                        },
+                        "group": "493f75bf1474ae5a"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "8f92e9103c136642",
+                    "type": "tabs",
+                    "dimension": 44.375,
+                    "children": [
+                      {
+                        "id": "8238a86e23b681d8",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "2. Areas/Design/Vectorworks/Vectorworks MOC.md",
+                            "options": {
+                              "collapse-filter": false,
+                              "search": "",
+                              "localJumps": 1,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": false,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": true,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 0.9206345386716356,
+                              "close": true
+                            }
+                          },
+                          "icon": "lucide-git-fork",
+                          "title": "Graph of Vectorworks MOC"
+                        },
+                        "group": "493f75bf1474ae5a"
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "60303c7496183e59",
+                "type": "tabs",
+                "dimension": 51.987281399046104,
+                "children": [
+                  {
+                    "id": "246035a73b118adc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2. Areas/Design/Vectorworks/Workflows.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Workflows"
+                    }
+                  },
+                  {
+                    "id": "caa5401fe6d1ea2a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2. Areas/Design/Vectorworks/VW Project Tasks.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "VW Project Tasks"
+                    }
+                  },
+                  {
+                    "id": "5ee5dabf3cd519a4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2. Areas/Design/Vectorworks/Drawing Setup.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Drawing Setup"
+                    }
+                  },
+                  {
+                    "id": "9bd64325bb44dcd0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "2. Areas/Design/QGIS/QGIS General Notes.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "QGIS General Notes"
+                    }
+                  }
+                ],
+                "currentTab": 2
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "import",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "2. Areas/Design/Vectorworks/Vectorworks MOC.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Vectorworks MOC"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "2. Areas/Design/Vectorworks/Vectorworks MOC.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Vectorworks MOC"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2. Areas/Design/Vectorworks/Vectorworks MOC.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Vectorworks MOC"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "floating": {
+        "id": "64aea11ddd6dca92",
+        "type": "floating",
+        "children": [
+          {
+            "id": "21080337395c82b7",
+            "type": "window",
+            "children": [
+              {
+                "id": "0ec541f03533a926",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b3f09bcb1155c5d8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "2. Areas/Design/Vectorworks/Vectorworks Workflow Map.canvas",
+                        "viewState": {
+                          "x": 592.6924077098577,
+                          "y": -438.35368280296507,
+                          "zoom": -2.301928991017775
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "Vectorworks Workflow Map"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 867,
+            "y": 43,
+            "width": 853,
+            "height": 1064,
+            "maximize": false,
+            "zoom": 0.5
+          }
+        ]
+      },
+      "active": "5ee5dabf3cd519a4",
+      "mtime": "2025-08-18T15:14:19-04:00"
+    },
+    "Active Project Notes": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b629efd84b90ccea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca84106fee702701",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Inbox/Plant Design Data Base.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plant Design Data Base"
+                }
+              },
+              {
+                "id": "f33f793a1d7c550f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/Plant Composition/Plant Composition Workbook.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plant Composition Workbook"
+                }
+              },
+              {
+                "id": "ccf5ef5a4a414c98",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Design/Vectorworks/Plant Objects.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Plant Objects"
+                }
+              },
+              {
+                "id": "0707305f275ac477",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "8f18544fb20680f9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0. Inbox/Oudolf Notes/Perennial Matrix Best Practices.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Perennial Matrix Best Practices"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "2. Areas/Design/Renderworks.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Renderworks"
+                }
+              },
+              {
+                "id": "d08d6dbd515c07bb",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "eb72d666490d7f08",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "2. Areas/Design/Renderworks.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Renderworks"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "floating": {
+        "id": "25cd668fd42fe16a",
+        "type": "floating",
+        "children": [
+          {
+            "id": "371cd473d51dc100",
+            "type": "window",
+            "children": [
+              {
+                "id": "e6bfeeb90bc8cbc2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "88a3dccc16b45d8c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "0. Inbox/Plant Data Flow.canvas",
+                        "viewState": {
+                          "x": 138.94743555394382,
+                          "y": -87.47159810651203,
+                          "zoom": -1.0217353070417259
+                        }
+                      },
+                      "icon": "lucide-layout-dashboard",
+                      "title": "Plant Data Flow"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 1284,
+            "y": 33,
+            "width": 1268,
+            "height": 1400,
+            "maximize": false,
+            "zoom": 1
+          }
+        ]
+      },
+      "active": "0707305f275ac477",
+      "mtime": "2025-08-18T08:37:33-04:00"
+    },
+    "Ya's Chance": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "21f1c261af85faea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "696dcf1d7b6209d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2. Ya's Chance Project Notes"
+                },
+                "group": "9b25de860c76afd1"
+              }
+            ]
+          },
+          {
+            "id": "cb83de492675e664",
+            "type": "split",
+            "children": [
+              {
+                "id": "edfe36817e79a3fa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d2442de81c3e5e78",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1. Projects/Ya's Chance/1. Ya's Chance Site Notes.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1. Ya's Chance Site Notes"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "9f93219bdff717fd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c4abd8ef3e8ac489",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of 2. Ya's Chance Project Notes"
+                    },
+                    "group": "9b25de860c76afd1"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schafer",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2. Ya's Chance Project Notes"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c4abd8ef3e8ac489",
+      "mtime": "2025-01-13T08:50:01-05:00"
+    },
+    "Nancy Ann Dr": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "21f1c261af85faea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "696dcf1d7b6209d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/_Pipeline/Close/Williard/2. Williard Project Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2. Williard Project Notes"
+                },
+                "group": "9b25de860c76afd1"
+              },
+              {
+                "id": "15d7aed8b7b8f4bc",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "_Dashboard.md"
+                  },
+                  "pinned": true,
+                  "icon": "blocks",
+                  "title": "_Dashboard"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cb83de492675e664",
+            "type": "split",
+            "children": [
+              {
+                "id": "edfe36817e79a3fa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d2442de81c3e5e78",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1. Projects/_Pipeline/Close/Williard/1. Williard Site Notes.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "1. Williard Site Notes"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "9f93219bdff717fd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c4abd8ef3e8ac489",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "1. Projects/_Pipeline/Close/Williard/2. Williard Project Notes.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.9799656826540063,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of 2. Williard Project Notes"
+                    },
+                    "group": "9b25de860c76afd1"
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schafer",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "10b6840fbcd52eb3",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "2562b180638aeb5e",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "696dcf1d7b6209d3",
+      "mtime": "2025-09-03T10:50:35-04:00"
+    },
+    "Doyle Rd.": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "21f1c261af85faea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "334922348b7c9caa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Design/Inventory.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inventory"
+                }
+              },
+              {
+                "id": "4e25cb5630cde3ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/Rountree/1. Rountree Site Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "1. Rountree Site Notes"
+                }
+              },
+              {
+                "id": "f8c7fd64728769cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1. Projects/Rountree/2. Rountree Project Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2. Rountree Project Notes"
+                }
+              },
+              {
+                "id": "f1e3a69cf36de655",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "cb83de492675e664",
+            "type": "split",
+            "children": [
+              {
+                "id": "edfe36817e79a3fa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d2442de81c3e5e78",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "1. Projects/Rountree/2025-04-08 Rountree Concept Review.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-04-08 Rountree Concept Review"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "9f93219bdff717fd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c4abd8ef3e8ac489",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "1. Projects/Rountree/2025-04-08 Rountree Concept Review.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.1370046269920937,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of 2025-04-08 Rountree Concept Review"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schafer",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e635b586bd986d5e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "c85ccb67f5d6b274",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "d2442de81c3e5e78",
+      "mtime": "2025-04-18T11:15:08-04:00"
+    },
+    "Devereaux St.": {
+      "main": {
+        "id": "0774e101e6fe2d0c",
+        "type": "split",
+        "children": [
+          {
+            "id": "21f1c261af85faea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "334922348b7c9caa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Design/Inventory.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Inventory"
+                }
+              },
+              {
+                "id": "4e25cb5630cde3ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Inbox/Knight-England Site Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Knight-England Site Notes"
+                }
+              },
+              {
+                "id": "f8c7fd64728769cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0. Inbox/Knight-England Project Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Knight-England Project Notes"
+                }
+              },
+              {
+                "id": "f1e3a69cf36de655",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2. Areas/Design/QGIS/QGIS Project Tasks.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "QGIS Project Tasks"
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "cb83de492675e664",
+            "type": "split",
+            "children": [
+              {
+                "id": "edfe36817e79a3fa",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "d2442de81c3e5e78",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "0. Inbox/+ Leads/David Knight.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "David Knight"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "9f93219bdff717fd",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c4abd8ef3e8ac489",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "2. Areas/Design/QGIS/QGIS Project Tasks.md",
+                        "options": {
+                          "collapse-filter": true,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.1370046269920937,
+                          "close": true
+                        }
+                      },
+                      "icon": "lucide-git-fork",
+                      "title": "Graph of QGIS Project Tasks"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f54fcd3410abad4",
+        "type": "split",
+        "children": [
+          {
+            "id": "8010822f6293724b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "095b9bb9b83f3ab2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "193d7d7b1ddfe47d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "schafer",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "938281352c63d47d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "e635b586bd986d5e",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a50df2f58f5cc923",
+        "type": "split",
+        "children": [
+          {
+            "id": "be6d1a365904ed4c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5ad63c411b43814",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "289ed5ef3b2b4413",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "4d3ffe0dacda8e64",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "1. Projects/Ya's Chance/2. Ya's Chance Project Notes.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 2. Ya's Chance Project Notes"
+                }
+              },
+              {
+                "id": "c85ccb67f5d6b274",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-projects:Open projects": false,
+          "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "f1e3a69cf36de655",
+      "mtime": "2025-05-12T10:00:47-04:00"
+    }
+  },
+  "active": "Blank"
+}

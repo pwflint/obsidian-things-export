@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "0774e101e6fe2d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6996a226f11855b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f54fcd3410abad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8010822f6293724b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "095b9bb9b83f3ab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "193d7d7b1ddfe47d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "938281352c63d47d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "a50df2f58f5cc923",
+    "type": "split",
+    "children": [
+      {
+        "id": "be6d1a365904ed4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5ad63c411b43814",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "289ed5ef3b2b4413",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d3ffe0dacda8e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a6996a226f11855b",
+  "lastOpenFiles": [
+    "2. Areas/Clients/Leads.md",
+    "0. Inbox/_KED Dashboard.md",
+    "0. Inbox/Kimberley Laney @{2022-09-22}.md",
+    "2. Areas/Studio/Property Survey.md",
+    "2. Areas/Studio/Databases.md",
+    "2. Areas/Studio/RIBA Plan of Work.md",
+    "2. Areas/Studio/Pipeline.md",
+    "2. Areas/Studio/Daily Notes/Spatial Data in R.md",
+    "2. Areas/Design/QGIS/QGIS Development 1.md",
+    "2. Areas/Design/Vectorworks/Troubleshooting.md"
+  ]
+}

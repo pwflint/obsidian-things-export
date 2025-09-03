@@ -1,0 +1,102 @@
+/* Things 3 Project Export Plugin Styles */
+
+.things-export-notice {
+	padding: 8px 12px;
+	margin: 8px 0;
+	border-radius: 4px;
+	border-left: 4px solid;
+}
+
+.things-export-notice.success {
+	background-color: var(--background-modifier-success);
+	border-left-color: var(--text-success);
+	color: var(--text-success);
+}
+
+.things-export-notice.error {
+	background-color: var(--background-modifier-error);
+	border-left-color: var(--text-error);
+	color: var(--text-error);
+}
+
+.things-export-notice.warning {
+	background-color: var(--background-modifier-warning);
+	border-left-color: var(--text-warning);
+	color: var(--text-warning);
+}
+
+.things-export-notice.info {
+	background-color: var(--background-modifier-border);
+	border-left-color: var(--text-accent);
+	color: var(--text-accent);
+}
+
+.things-export-settings {
+	padding: 16px;
+}
+
+.things-export-settings .setting-item {
+	margin-bottom: 16px;
+}
+
+.things-export-settings .setting-item-name {
+	font-weight: 600;
+	margin-bottom: 4px;
+}
+
+.things-export-settings .setting-item-description {
+	color: var(--text-muted);
+	font-size: 0.9em;
+	margin-bottom: 8px;
+}
+
+.things-export-settings input[type="text"],
+.things-export-settings input[type="number"],
+.things-export-settings select {
+	width: 100%;
+	padding: 6px 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 4px;
+	background-color: var(--background-primary);
+	color: var(--text-normal);
+}
+
+.things-export-settings input[type="checkbox"] {
+	margin-right: 8px;
+}
+
+.things-export-button {
+	background-color: var(--interactive-accent);
+	color: var(--text-on-accent);
+	border: none;
+	border-radius: 4px;
+	padding: 8px 16px;
+	cursor: pointer;
+	font-weight: 500;
+	transition: background-color 0.2s ease;
+}
+
+.things-export-button:hover {
+	background-color: var(--interactive-accent-hover);
+}
+
+.things-export-button:disabled {
+	background-color: var(--background-modifier-border);
+	color: var(--text-muted);
+	cursor: not-allowed;
+}
+
+.things-export-progress {
+	width: 100%;
+	height: 4px;
+	background-color: var(--background-modifier-border);
+	border-radius: 2px;
+	overflow: hidden;
+	margin: 8px 0;
+}
+
+.things-export-progress-bar {
+	height: 100%;
+	background-color: var(--interactive-accent);
+	transition: width 0.3s ease;
+}

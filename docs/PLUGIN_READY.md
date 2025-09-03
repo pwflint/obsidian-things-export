@@ -63,6 +63,10 @@ This script will:
 1. **Check Console**: Open Developer Tools (`Cmd/Ctrl + Shift + I`) → Console tab
 2. **Check Plugin Status**: Settings → Community Plugins → Things 3 Project Export
 3. **Verify Things 3**: Make sure Things 3 is installed and URL scheme is enabled
+
+## 📁 Repository Note
+
+**Important**: The `.obsidian` directory is not included in the repository as it contains local Obsidian configuration. Each user will need to create their own `.obsidian/plugins/obsidian-things-project-export/` directory when installing the plugin.
 4. **Test Sample Note**: Use the sample note from `TESTING_GUIDE.md`
 
 ## 📋 Test Checklist

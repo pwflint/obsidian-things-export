@@ -27,6 +27,8 @@ An enhanced Obsidian plugin that exports notes to Things 3 as complete projects,
 3. Run `./scripts/update-plugin.sh` to build and install the plugin
 4. Enable the plugin in Obsidian's Community Plugins settings
 
+**Note**: The `.obsidian` directory is not included in the repository. The installation script will create the necessary plugin directory in your Obsidian vault.
+
 ### Manual Installation
 1. Download the latest release from the [releases page](https://github.com/pwflint/obsidian-things-project-export/releases)
 2. Extract the files to your Obsidian vault's `.obsidian/plugins/obsidian-things-project-export/` directory

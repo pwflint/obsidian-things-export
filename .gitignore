@@ -8,6 +8,9 @@ yarn-error.log*
 main.js
 main.js.map
 
+# Obsidian configuration (local to each user)
+.obsidian/
+
 # IDE files
 .vscode/
 .idea/
